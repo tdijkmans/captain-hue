@@ -140,7 +140,7 @@ const Dictaphone = ({
     const magicWord = "Thomas help q42";
     const messageResponse = {
       right:
-        "Well done, captain Hue! You have made it ashore and saved many lives from certain death.",
+        "Well done, captain Hue! You have made it ashore and saved many lives from certain death. If you want to talk more with Thomas, invite him through tdijkmans@gmail.com or 06 143 78 193!",
       wrong: "No response, nothing happens! Try another 'magic word'!",
     };
     if (transcript === magicWord) {
