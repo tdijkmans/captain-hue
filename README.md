@@ -6,7 +6,7 @@ Captain Hue is a little word-guessing game using Morse Code. The app outlines th
 
 ### Live working version
 
-[Click here](https://captain-hue.netlify.app/)
+[Click here](https://captain-hue-of-q42.netlify.app/)
 \*\*\* note: The only browser that currently supports this app is Google Chrome, this is due voice recognition software.
 
 ### Goals of this project
@@ -24,7 +24,7 @@ This Captain is an adaption of Captain Morse (see that repo), to signal Q42 and 
 
 ### App demo
 
-![CaptainMorse](https://github.com/tdijkmans/morse-code-masters/blob/development/readme-assets/Captain-morse.gif)
+![CaptainMorse](https://github.com/tdijkmans/captain-hue/blob/development/readme-assets/Captain-morse.gif)
 
 ### Solution riddle (don't look before trying)
 
