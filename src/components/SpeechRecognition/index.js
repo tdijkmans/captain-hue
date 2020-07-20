@@ -137,7 +137,7 @@ const Dictaphone = ({
 
   function respondToMessage() {
     console.log("time", time);
-    const magicWord = "Thomas help Q42";
+    const magicWord = "Thomas help q42";
     const messageResponse = {
       right:
         "Well done, captain Hue! You have made it ashore and saved many lives from certain death.",
