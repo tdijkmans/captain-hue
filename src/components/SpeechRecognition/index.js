@@ -41,7 +41,7 @@ const Dictaphone = ({
   const [classNamePlayButton, setClassNamePlayButton] = useState("hide");
   const [h3content, setH3Content] = useState(`press 🔴 record to start`);
   const [answer, setAnswer] = useState(
-    "Vessel in distress! Captain, your vessel is caught in a wild storm and flooding quickly. Call for help to save you and your crew from drowning. But SOS gives no response! Hurry, send the right message to save our souls!"
+    "Vessel in distress! Captain Hue, your vessel Q42 is caught in a wild storm and flooding quickly. Call for help to save you and your crew from drowning. But SOS gives no response! Hurry, Signify the right message in Dutch to save our souls!"
   );
 
   const style = {
@@ -137,10 +137,10 @@ const Dictaphone = ({
 
   function respondToMessage() {
     console.log("time", time);
-    const magicWord = "please";
+    const magicWord = "Q42 aan Thomas";
     const messageResponse = {
       right:
-        "Well done, captain! You have made it ashore and save many lives from certain death.",
+        "Well done, captain Hue! You have made it ashore and saved many lives from certain death.",
       wrong: "No response, nothing happens! Try another 'magic word'!",
     };
     if (transcript === magicWord) {
