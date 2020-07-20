@@ -1,4 +1,4 @@
-# ⚓ Captain Morse | A simple but life saving app ⚓
+# ⚓ Captain Hue 💡 of Q42 🚢 | A simple but life saving app ⚓
 
 ### What this app is about
 
@@ -12,7 +12,7 @@ Captain Hue is a little word-guessing game using Morse Code. The app outlines th
 ### Goals of this project
 
 As part of Codaisseur's Web Development Bootcamp an assignment was given: build an app, with one fellow student, in one week, given the theme 'Language and letters'.
-This Captain is an adaption of Captain Morse (see that repo), to signal Q42 and its illuminous Hue-crew 💡.
+This Captain is an adaption of Captain Morse (see [that repo](https://github.com/tdijkmans/captain-hue)), to signal Q42 and its illuminous Hue-crew 💡.
 
 ### Tech used in the project
 
@@ -24,7 +24,7 @@ This Captain is an adaption of Captain Morse (see that repo), to signal Q42 and 
 
 ### App demo
 
-![CaptainMorse](https://github.com/tdijkmans/captain-hue/blob/development/readme-assets/Captain-morse.gif)
+![CaptainHue](https://github.com/tdijkmans/captain-hue/blob/master/readme-assets/Captain-morse.gif)
 
 ### Solution riddle (don't look before trying)
 
