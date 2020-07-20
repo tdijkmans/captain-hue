@@ -28,4 +28,4 @@ This Captain is an adaption of Captain Morse (see that repo), to signal Q42 and 
 
 ### Solution riddle (don't look before trying)
 
-sɐɯoɥ┴ uɐɐ ᄅㄣ Q
+ᄅㄣ b dlǝɥ sɐɯoɥʇ
